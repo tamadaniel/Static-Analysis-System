@@ -11,8 +11,11 @@
   2) Install python bluetooth packages 
 
   sudo apt-get update
+  
   sudo apt-get install python-pip python-dev ipython
+  
   sudo apt-get install bluetooth libbluetooth-dev
+  
   sudo pip install pybluez
 
   2) Press the red button on WBB to synchronize 
