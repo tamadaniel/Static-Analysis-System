@@ -8,11 +8,19 @@
 # How to run 
 
   1) Install python packages: Pandas, Numpy
+  2) Install python bluetooth packages 
+
+  sudo apt-get update
+  sudo apt-get install python-pip python-dev ipython
+  sudo apt-get install bluetooth libbluetooth-dev
+  sudo pip install pybluez
+
   2) Press the red button on WBB to synchronize 
   
   ![aid808407-v4-728px-Sync-a-Wii-Fit-Balance-Board-Step-4](https://user-images.githubusercontent.com/57098324/67684503-a8b0fe00-f9d6-11e9-8200-eb99fa718d05.jpg)
 
   3) Run WiiBalanceBoard.py
   
+# Result
 
 
