@@ -24,6 +24,20 @@
 
   3) Run WiiBalanceBoard.py
   
-# Result
+# Data Process
 
+After collecting the information from the four sensors, the program removes outliers.  
+
+![outliers](https://user-images.githubusercontent.com/57098324/67686264-c764c400-f9d9-11e9-8cff-15c57dffc310.png)
+
+Next, it is necessary to resample the data.
+![resample](https://user-images.githubusercontent.com/57098324/67686263-c6cc2d80-f9d9-11e9-84a0-f4ad246c1096.png)
+
+
+# Results
+
+Two graphs are showed: the Stabilogram (COP vs time) and Statokinesigram (COPx vs COPy).
+
+![Picture1](https://user-images.githubusercontent.com/57098324/67686792-98028700-f9da-11e9-805c-05150659f041.png)
+![Picture2](https://user-images.githubusercontent.com/57098324/67686794-98028700-f9da-11e9-87ee-9f9eeb9d33c0.png)
 
